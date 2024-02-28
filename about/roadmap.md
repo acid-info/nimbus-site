@@ -8,11 +8,11 @@ As a leading Ethereum client implementation already in production, the Nimbus co
 
 Known future upgrades and ecosystem developments guiding our research and development efforts include:
 
-### EIP-4844 (proto-danksharding)
+### Dencun hardfork 
 
-After "The Merge" in 2022, the next major Ethereum upgrade is "The Surge," which aims to significantly increase the network's maximum transaction throughput via the implementation of an early form of sharding. The upgrade is expected in Q3 or Q4 2023.
+After "The Merge" in 2022, the next major Ethereum upgrade is "The Surge," which aims to significantly increase the network's maximum transaction throughput via the implementation of an early form of sharding. The Dencun hard fork is anticipated to go live on mainnet in Q2 2024.
 
-### Distributed Validator Technology
+### Distributed validator technology
 
 DVT is an open-source protocol already in use. It enables a group of validators to combine ETH to reach the minimum stake required to operate a validator. 
 
@@ -28,7 +28,7 @@ Despite this responsive approach, the team is working on several focus areas dur
 
 - Supporting EIP-4844 and distributed validator protocols. 
 
-- Releasing the Nimbus execution client—expected in mid 2024
+- Releasing the Nimbus execution client—expected in mid-2024
 
 - Enhancing the light Nimbus portal client.  
 
