@@ -18,7 +18,7 @@ DVT is an open-source protocol already in use. It enables a group of validators 
 
 Additionally, Nimbus maintains relationships with various user types, including solo stakers and liquid staking protocol operators, to ensure their feedback informs our work on the client implementations.
 
-Consequently, Nimbus development follows a monthly update schedule that incorporates the above variables while remaining flexible and adaptive to unforeseen ecosystem advances (and potential crises). Over the last year for example, Nimbus has shipped more than 20 updates to its consensus client implementation.  
+Consequently, Nimbus development follows a monthly update schedule that incorporates the above variables while remaining flexible and adaptive to unforeseen ecosystem advances (and potential crises). Over the last year, for example, Nimbus has shipped more than 20 updates to its consensus client implementation.  
 
 <br/>
 
@@ -28,8 +28,8 @@ Despite this responsive approach, the team is working on several focus areas dur
 
 - Supporting EIP-4844 and distributed validator protocols. 
 
-- Releasing the Nimbus execution client—expected early 2024
+- Releasing the Nimbus execution client—expected in mid 2024
 
-- Enhancing the light client, Nimbus Portal.  
+- Enhancing the light Nimbus portal client.  
 
 [Contribute to Nimbus](https://github.com/status-im/nimbus-eth2)
